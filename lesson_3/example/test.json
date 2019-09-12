@@ -1,0 +1,9 @@
+{
+  "foo": "bar",
+  "test": 1,
+  "ping": true,
+  "obj": {
+    "inner": "foo"
+  },
+  "arr": [1, 2, 3]
+}
